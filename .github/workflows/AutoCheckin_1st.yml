@@ -1,4 +1,4 @@
-name: AutoCheckin
+name: AutoCheckin-1st
 
 on: 
   workflow_dispatch:
